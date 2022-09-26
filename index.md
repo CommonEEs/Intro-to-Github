@@ -5,3 +5,7 @@
 ##### this is an h5 comment
 ###### this is an h6 comment
 ####### is there an h7 comment?
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+\nThis is the one and only Yaktocat!
